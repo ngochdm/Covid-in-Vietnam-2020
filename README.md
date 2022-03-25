@@ -14,7 +14,7 @@ This is my project in the Data Visualization course at the university.
 
 Vì trang này không cho sẵn file dataset nên nhóm đã sử dụng thư viện `selenium` kết hợp với thư viện `requests` (Python) để tiến hành lấy dữ liệu.
 
-2. Dữ liệu về sự thay đổi các thông số về dịch bệnh từ trang web [worldometers](https://www.worldometers.info/coronavirus/) và lấy riêng cho Việt Nam.
+2. **Dữ liệu về sự thay đổi các thông số về dịch bệnh từ trang web [worldometers](https://www.worldometers.info/coronavirus/)** và lấy riêng cho Việt Nam.
 
 Vì trang web chỉ hiển thị 3 ngày gần nhất nên nhóm lấy dữ liệu hằng ngày. Và để các con số cập nhật chính xác thì nhóm chỉ lấy dữ liệu sau khi ngày đó đã kết thúc (Lấy ở mục Yesterday hoặc 2 days ago).
 Thư viện được sử dụng để lấy dữ liệu là `requests` và `beautifulsoup` (`bs4`).
