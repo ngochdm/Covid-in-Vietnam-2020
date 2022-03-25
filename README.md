@@ -29,7 +29,7 @@ Một số dashboard nhóm phân tích (những dashboard khác có thể xem tr
 
 ### Dashboard chính
 
-[Dashboard](/Dashboard/Dashboard.png)
+![Dashboard](/Dashboard/Dashboard.png)
 
 - Biểu đồ tròn bên trái thể hiện tỷ lệ của các tình trạng bệnh nhân Covid-19 tại Việt Nam, trong đấy chiếm tỷ lệ cao nhất là các bệnh nhân đã được chữa khỏi với tỷ lệ rất cao là 88.18% hay cụ thể là 940 bệnh nhân đã được chữa khỏi, tiếp đến là các bệnh nhân đang điều trị chiếm tỷ lệ 8.26%, số lượng bệnh nhận tử vong cả do COVID-19 lẫn không do virus này đều ở mức khá thấp, lần lượt là 3.28% và 0.28%.
 
@@ -43,13 +43,13 @@ Một số dashboard nhóm phân tích (những dashboard khác có thể xem tr
 
 ### Dashboard về độ tuổi
 
-[Dashboard về độ tuổi](/Dashboard/DBofAge.png)
+![Dashboard về độ tuổi](/Dashboard/DBofAge.png)
 
 Histogram dưới đây thể hiện mức độ phân bố của độ tuổi cũng như tình trạng của các bệnh nhân. Một lần nữa ta thấy được, bệnh được phủ rộng qua các độ tuổi, không nhất thiết phải là người lớn tuổi mới là đối tượng bị bệnh. Ngược lại, số lượng những người bị bệnh từ 20 đến 30 tuổi chiếm số lượng vượt trội so với các lứa tuổi khác. Thế nhưng, đa phần các trường hợp tử vòng thì lại rơi vào những người có độ tuổi trên 50 tuổi, với một ngoại lệ duy nhất. Và như các thông số đã nêu từ trước, số ca được chữa khỏi vẫn chiếm đa số trong tất cả các độ tuổi.
 
 ### Dashboard về số ca nhiễm mới
 
-[Dashboard về số ca nhiễm mới](/Dashboard/DBofNewCases.png)
+![Dashboard về số ca nhiễm mới](/Dashboard/DBofNewCases.png)
 
 Biểu đồ đường thể hiện biến đông trong số ca nhiễm mới mỗi ngày trong hơn 1 tháng từ ngày 9/8 đến ngày 17/9. Có thể thấy được rằng trong khoảng 10 ngày đầu tiên số ca nhiễm mới tăng một cách đột biến, số lượng là rất lớn, sau đấy số lượng tăng theo ngày giảm dần, đến những ngày cuối thì rất ít, có nhiều ngày liền không có ca mắc mới.
 
@@ -57,7 +57,7 @@ Biểu đồ thứ hai: thể hiện sự tăng giảm của số nhiễm mới 
 
 ### Dashboard về trạng thái
 
-[Dashboard về trạng thái](/Dashboard/DBofStatus.png)
+![Dashboard về trạng thái](/Dashboard/DBofStatus.png)
 
 Các biểu đồ khác nhau thể hiện tỷ lệ tình trạng các bệnh nhân mắc Covid-19 tại Việt Nam. Tuy cách thể hiện là khác nhau nhưng đều thể hiện chung một ý chính. Các bệnh nhân đã được chữa khỏi vẫn chiếm tỷ lệ cao nhất và bỏ xa các tình trạng khác, Số lượng bệnh nhận đang điều trị tuy không cao bằng số người được chữa khỏi, nhưng vẫn không phải là quá lớn. Tỷ lệ tử vong do virus lẫn không do Virus đều không quá cao.
 
