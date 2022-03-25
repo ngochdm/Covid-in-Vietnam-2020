@@ -12,14 +12,12 @@ This is my project in the Data Visualization course at the university.
 
 1. **Dữ liệu về các bệnh nhân từ [Bộ Y Tế](https://ncov.moh.gov.vn/).**
 
-Vì trang này không cho sẵn file dataset nên nhóm đã sử dụng thư viện selenium kết hợp với thư viện requests (python) để tiến hành lấy dữ liệu.
+Vì trang này không cho sẵn file dataset nên nhóm đã sử dụng thư viện `selenium` kết hợp với thư viện `requests` (Python) để tiến hành lấy dữ liệu.
 
 2. Dữ liệu về sự thay đổi các thông số về dịch bệnh từ trang web [worldometers](https://www.worldometers.info/coronavirus/) và lấy riêng cho Việt Nam.
 
 Vì trang web chỉ hiển thị 3 ngày gần nhất nên nhóm lấy dữ liệu hằng ngày. Và để các con số cập nhật chính xác thì nhóm chỉ lấy dữ liệu sau khi ngày đó đã kết thúc (Lấy ở mục Yesterday hoặc 2 days ago).
-
-Thư viện được sử dụng để lấy dữ liệu là requests và beautifulsoup (bs4) (python)
-
+Thư viện được sử dụng để lấy dữ liệu là `requests` và `beautifulsoup` (`bs4`).
 Sau đó, tiền xử lý dữ liệu lấy riêng dữ liệu cho Việt Nam và ghép các dữ liệu đó vào chung một file dataset.
 
 
@@ -63,4 +61,4 @@ Các biểu đồ khác nhau thể hiện tỷ lệ tình trạng các bệnh nh
 
 
 ## Áp dụng mô hình học máy
-Nhóm sử dụng 2 thư viện là `sklearn` và `statmodels` với 2 mô hình là OLS và ARIMA để dự đoán số ca nhiễm của ngày kế tiếp.
+Nhóm sử dụng 2 thư viện là `sklearn` và `statmodels` với 2 mô hình là `OLS` và `ARIMA` để dự đoán số ca nhiễm của ngày kế tiếp.
